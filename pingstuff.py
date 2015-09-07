@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
-# Script calls subprocesses and executes Ping
+# Test script calls subprocesses and executes 1 Ping
+# outputs to cli
 
 from threading import Thread
 import subprocess
