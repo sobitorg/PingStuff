@@ -2,6 +2,8 @@
 
 # Test script calls subprocesses and executes 1 Ping
 # outputs to cli
+# last updated 1-1-15
+
 
 from threading import Thread
 import subprocess
